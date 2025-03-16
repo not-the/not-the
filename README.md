@@ -1,6 +1,4 @@
-# hello
-
-[https://notkal.com](https://notkal.com/)
+### [notkal.com](https://notkal.com/)
 
 ---
 
